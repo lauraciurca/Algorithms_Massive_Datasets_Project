@@ -1,8 +1,9 @@
 # Market-basket Analysis - Algorithms for Massive Datasets Project
 
-## Contributors
+## Contributors :busts_in_silhouette:
 - Laura Ciurca
 - Camilla Gotta  &nbsp; <a href="https://github.com/camillagotta">
+  </a>  &nbsp
 
 ## About the Project
 
