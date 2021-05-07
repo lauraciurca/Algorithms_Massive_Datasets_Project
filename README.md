@@ -1,7 +1,11 @@
 # Market-basket Analysis - Algorithms for Massive Datasets Project
 
 ## Contributors
-- Laura Ciurca
+- Laura Ciurca  &nbsp; <a href="https://www.linkedin.com/in/laura-ciurca-456249150/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>  &nbsp;
+  <a href="https://github.com/camillagotta" rel="nofollow noreferrer"> <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github </a> &nbsp;
+
 - Camilla Gotta  &nbsp; <a href="https://it.linkedin.com/in/camillagotta" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>  &nbsp;
